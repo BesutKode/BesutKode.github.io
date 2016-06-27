@@ -1,4 +1,4 @@
-| Github username               | Project Euler username          | Github pages URL                               | Project Euler Problem 1 |
+| Nama Pengguna GitHub          | Nama Pengguna Project Euler     | URL Halaman GitHub Pribadi                     | Telah Menyelesaikan Project Euler           |
 | ----------------------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
-| example                       | example                         | http://<username>.github.io                    | Add "Done" in Modul 3   |
+| RioSatria                     | Riouwa                          | contoh-besutkode.github.io                     | Sudah, soal nomor 1                         |
 
