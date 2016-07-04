@@ -5,3 +5,4 @@
 | SacredWKnight                 | SacredWKnight                   | sacredwknight.github.io                        | Soal nomor 1,2,3                            |
 | ----------------------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
 | Qadzif                        | Qadzif                          | Qadzif.github.io                               | Sudah, 1 Sampai 20				             |
+|thegalang                      | galangk                         | thegalang.github.io                            | Sudah, soal nomor 2 
