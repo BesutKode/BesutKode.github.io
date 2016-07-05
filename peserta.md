@@ -6,3 +6,5 @@
 | ----------------------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
 | Qadzif                        | Qadzif                          | Qadzif.github.io                               | Sudah, 1 Sampai 20				             |
 |thegalang                      | galangk                         | thegalang.github.io                            | Sudah, soal nomor 2 
+| ----------------------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
+| calvinkmts                    | besutkode_calvinkmts            | calvinkmts.github.io                           | Sudah, soal nomor 1				                  |
