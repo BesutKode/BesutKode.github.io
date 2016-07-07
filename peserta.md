@@ -8,3 +8,4 @@
 |thegalang                      | galangk                         | thegalang.github.io                            | Sudah, soal nomor 2 
 | ----------------------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
 | calvinkmts                    | besutkode_calvinkmts            | calvinkmts.github.io                           | Sudah, soal nomor 1				                  |
+| rafidaslam                    | rafidaslam                      | rafidaslam.github.io                           | Soal nomor 1,2                              |
