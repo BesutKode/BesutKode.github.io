@@ -10,4 +10,4 @@
 | calvinkmts                    | besutkode_calvinkmts            | calvinkmts.github.io                           | Sudah, soal nomor 1				                  |
 | Dihak                         | Dihak                           | dihak.github.io                                | Sudah, 1 Sampai 10      |
 | rafidaslam                    | rafidaslam                      | rafidaslam.github.io                           | Soal nomor 1,2,8        |
-| ikraduya                    | ikraduya                      | ikraduya.github.io                           | Soal nomor 1-7,9,10,12,14        |
+| ikraduya                    | ikraduya                      | ikraduya.github.io                           | Soal nomor 1-7,9-12,14,15,18        |
