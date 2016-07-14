@@ -7,4 +7,5 @@
 | calvinkmts                    | besutkode_calvinkmts            | calvinkmts.github.io                           | Sudah, soal nomor 1				                  |
 | Dihak                         | Dihak                           | dihak.github.io                                | Sudah, 1 Sampai 10      |
 | rafidaslam                    | rafidaslam                      | rafidaslam.github.io                           | Soal nomor 1,2,8        |
-| ikraduya                    | ikraduya                      | ikraduya.github.io                           | Soal nomor 1-26,28        |
+| ikraduya                    | ikraduya                          | ikraduya.github.io                           | Soal nomor 1-26,28        |
+| ariqzuhdi                     | ariqzuhdi                       | https://ariqzuhdi.github.io/besutkode/         | Sudah, soal nomor 1        |
