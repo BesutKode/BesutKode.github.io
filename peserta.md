@@ -9,3 +9,4 @@
 | rafidaslam                    | rafidaslam                      | rafidaslam.github.io                           | Soal nomor 1,2,8        |
 | ikraduya                    | ikraduya                          | ikraduya.github.io                           | Soal nomor 1-26,28        |
 | ariqzuhdi                     | ariqzuhdi                       | https://ariqzuhdi.github.io/besutkode/         | Sudah, soal nomor 1        |
+| gracesilia                     | gracesilia                       | gracesilia.github.io         | Sudah, soal nomor 1        |
