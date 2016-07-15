@@ -10,4 +10,4 @@
 | ikraduya                    | ikraduya                          | ikraduya.github.io                           | Soal nomor 1-26,28        |
 | ariqzuhdi                     | ariqzuhdi                       | https://ariqzuhdi.github.io/besutkode/         | Sudah, soal nomor 1        |
 | laymonage                     | laymonage                       | laymonage.github.io                            | Sudah, soal nomor 1, 2, 15
-| panggihsamudra                     | panggihsamudra                       | https://panggihsamudra.github.io/panggihsamudra/         | Sudah, soal nomor 1        |
+| panggihsamudra                     | panggihsamudra                       | panggihsamudra.github.io         | Sudah, soal nomor 1-10        |
