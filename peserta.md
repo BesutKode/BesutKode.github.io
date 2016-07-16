@@ -12,4 +12,4 @@
 | laymonage                     | laymonage                       | laymonage.github.io                            | Sudah, soal nomor 1, 2, 15
 | panggihsamudra                     | panggihsamudra                       | panggihsamudra.github.io         | Sudah, soal nomor 1-10        |
 | gracesilia                     | gracesilia                       |gracesilia.github.io         | Sudah, soal nomor 1-3,48        |
-| waderjhonson					| waderjhonson					  | waderjhnson.github.io 							| Belum
+| waderjhonson					| waderjhonson					  | waderjhonson.github.io 							| Belum
