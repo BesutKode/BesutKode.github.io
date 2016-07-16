@@ -11,3 +11,4 @@
 | ariqzuhdi                     | ariqzuhdi                       | https://ariqzuhdi.github.io/besutkode/         | Sudah, soal nomor 1        |
 | laymonage                     | laymonage                       | laymonage.github.io                            | Sudah, soal nomor 1, 2, 15
 | panggihsamudra                     | panggihsamudra                       | panggihsamudra.github.io         | Sudah, soal nomor 1-10        |
+| gracesilia                     | gracesilia                       |gracesilia.github.io         | Sudah, soal nomor 1-3,48        |
