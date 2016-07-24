@@ -13,3 +13,4 @@
 | panggihsamudra                     | panggihsamudra                       | panggihsamudra.github.io         | Sudah, soal nomor 1-10        |
 | gracesilia                     | gracesilia                       |gracesilia.github.io         | Sudah, soal nomor 1-3,48        |
 | waderjhonson					| waderjhonson					  | waderjhonson.github.io 		  | Sudah, soal nomor 6,7,10 		|
+| yukiisbored | yuki_is_bored | yukiisbored.github.io | Sudah, 1,2,3 |
