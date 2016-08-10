@@ -13,4 +13,5 @@
 | gracesilia                     | gracesilia                       |gracesilia.github.io         | Sudah, soal nomor 1-3,48        |
 | yukiisbored | yuki_is_bored | yukiisbored.github.io | Sudah, 1-7, 9 |
 | ryanz12 | Febryan | ryanz12.github.io | Selesai nomor 1-3 |
-| fauh45 | fauh45 | fauh45.github.io |Selesai nomor 1 dan 2 |
+| fauh45 | faih45 | fauh45.github.io | |
+| fauh45 | fauh45 | fauh45.github.io | Selesai nomor 1-2 |
