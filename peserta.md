@@ -15,3 +15,4 @@
 | ryanz12 | Febryan | ryanz12.github.io | Selesai nomor 1-3 |
 | fauh45 | fauh45 | fauh45.github.io | Selesai nomor 1-2 |
 | nutella25 | andrew.junggg | nutella25.github.io | Selesai nomor 1-3,7,13,19,92 |
+| rasyidufa | rasyidufa | rasyidufa.github.io | Sudah, No. 1-16, 18-20, 22, 102 |
