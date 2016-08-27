@@ -20,4 +20,4 @@
 | hanstananda | hanstananda | http://hanstananda.github.io ||
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
 | magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | |
-| maherspp | maherspp | https://maherspp.github.io | |
+| quella3 | quella | https://quella3.github.io | |
