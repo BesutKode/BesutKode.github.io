@@ -20,3 +20,4 @@
 | hanstananda | hanstananda | http://hanstananda.github.io ||
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
 | magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | |
+| synthesyn| bajengloncat | synthesyn.github.io |sudah nomor 1 :( |
