@@ -19,5 +19,5 @@
 | raefaldhia | raefaldhia | raefaldhia.github.io | 1-8 |
 | hanstananda | hanstananda | http://hanstananda.github.io ||
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
-| magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | |
+| magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | Sudah No. 1 - 6|
 | maherspp | maherspp | https://maherspp.github.io | |
