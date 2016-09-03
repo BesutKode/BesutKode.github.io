@@ -21,4 +21,4 @@
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
 | magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | Sudah No. 1 - 6|
 | maherspp | maherspp | https://maherspp.github.io | |
-| dovansan | dovansan | dovansan.github.io | Not yet |
+| dovansan | dovansan | dovansan.github.io | Selesai No. 1 |
