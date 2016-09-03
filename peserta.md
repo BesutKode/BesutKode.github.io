@@ -17,7 +17,7 @@
 | nutella25 | andrew.junggg | nutella25.github.io | Selesai nomor 1-3,7,13,19,92 |
 | rasyidufa | rasyidufa | rasyidufa.github.io | Sudah, No. 1-16, 18-20, 22, 102 |
 | raefaldhia | raefaldhia | raefaldhia.github.io | 1-8 |
-| hanstananda | hanstananda | http://hanstananda.github.io ||
+| hanstananda | hanstananda | http://hanstananda.github.io |Sudah 1-3,5-7,10,13-14,18,67|
 | nathaniasaphira | nathaniasaphira | nathaniasaphira.github.io | |
 | magicpotatoes2 | magicpotatoes2 | https://magicpotatoes2.github.io | Sudah No. 1 - 6|
 | maherspp | maherspp | https://maherspp.github.io | |
