@@ -1,3 +1,4 @@
+#!/usr/bin/python
 from md5 import md5 #for checksum
 i = 0 #result
 for x in range(1000):
