@@ -22,3 +22,4 @@
 | [magicpotatoes2](https://magicpotatoes2.github.io) | magicpotatoes2 | Sudah No. 1 - 6|
 | [maherspp](https://maherspp.github.io) | maherspp |  |
 | [leoferaderonugraha](https://leoferaderonugraha.github.io) | leoferaderonugraha  | Sudah 1,4|
+| [miner46er](https://miner46er.github.io) | miner46er | Sudah 1,2 |
