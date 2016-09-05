@@ -1,5 +1,5 @@
-| Nama Pengguna GitHub          | Nama Pengguna Project Euler     | URL Halaman GitHub Pribadi                     | Telah Menyelesaikan Project Euler           |
-| ----------------------------- | ------------------------------- | ---------------------------------------------- | ----------------------- |
+| Nama Pengguna GitHub          | Nama Pengguna Project Euler     | Telah Menyelesaikan Project Euler |
+| ----------------------------- | ------------------------------- | --------------------------------- |
 | [SacredWKnight](https://sacredwknight.github.io)  | SacredWKnight | Soal nomor 1,2,3   |
 | [Qadzif](https://Qadzif.github.io)  | Qadzif  | Sudah, 1 Sampai 20 |
 | [thegalang](https://thegalang.github.io) | galangk | Sudah, soal nomor 2 
