@@ -24,4 +24,5 @@
 | [leoferaderonugraha](https://leoferaderonugraha.github.io) | leoferaderonugraha  | Sudah 1,4|
 | [miner46er](https://miner46er.github.io) | miner46er | Sudah 1,2 |
 | [reallyly] (https://reallyly.github.io) | Yllae | Sudah, nomor 1 ~ 10, 13, 14, 16, 20, 40, 48 |
-| [rwhendry](https://rwhendry.github.io) | rwhendry | Sudah nomor 1-5
+| [rwhendry](https://rwhendry.github.io) | rwhendry | Sudah nomor 1-5 |
+| [kekavigi](https://kekavigi.github.io) | kekavigi | sudah nomor 1, 2, 3, 5, 6, 7, 9, 20, 48, 63 |
