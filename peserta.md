@@ -23,3 +23,4 @@
 | [maherspp](https://maherspp.github.io) | maherspp |  |
 | [leoferaderonugraha](https://leoferaderonugraha.github.io) | leoferaderonugraha  | Sudah 1,4|
 | [miner46er](https://miner46er.github.io) | miner46er | Sudah 1,2 |
+| [Wekananda](https://github.com/Wekananda) | Wekananda | Sudah 1 |
