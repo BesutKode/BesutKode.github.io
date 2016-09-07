@@ -25,3 +25,4 @@
 | [miner46er](https://miner46er.github.io) | miner46er | Sudah 1,2 |
 | [reallyly] (https://reallyly.github.io) | Yllae | Sudah, nomor 1 ~ 10, 13, 14, 16, 20, 40, 48 |
 | [rwhendry](https://rwhendry.github.io) | rwhendry | Sudah nomor 1-5
+| [rayanbg] (https://rayanbg.github.io) | rayanbg | Sudah nomor 1
