@@ -27,3 +27,4 @@
 | [rwhendry](https://rwhendry.github.io) | rwhendry | Sudah nomor 1-5 |
 | [kekavigi](https://kekavigi.github.io) | kekavigi | sudah nomor 1, 2, 3, 5, 6, 7, 9, 20, 48, 63 |
 | [Wekananda](https://wekananda.github.io/) | Wekananda | Sudah nomor 1 |
+| [Sensytive](https://Sensytive.github.io/) | Sensytive | Sudah nomor 1 dan 7 |
