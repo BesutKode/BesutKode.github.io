@@ -32,3 +32,4 @@
 | [Wekananda](https://wekananda.github.io/) | Wekananda | Sudah nomor 1 |
 | [Sensytive](https://Sensytive.github.io/) | Sensytive | Sudah nomor 1 dan 7 |
 | [ggmich] (https://ggmich.github.io/) | ggmich | Sudah nomor 1, 2 |
+| [riyan010699] (https://riyan010699.github.io/) | riyan010699 | Sudah nomor 1, 2, 6, 29, 53|
