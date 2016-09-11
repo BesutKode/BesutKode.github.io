@@ -33,5 +33,5 @@
 | [Sensytive](https://Sensytive.github.io/) | Sensytive | Sudah nomor 1 dan 7 |
 | [ggmich] (https://ggmich.github.io/) | ggmich | Sudah nomor 1, 2 |
 | [riyan010699] (https://riyan010699.github.io/) | riyan010699 | Sudah nomor 1, 2, 6, 29, 53|
-| [lauluholi12] (https://lauluholi12.github.io/) | lauluholi12 |
+| [lauluholi12] (https://lauluholi12.github.io/) | lauluholi12 | Sudah no 1-6, 42 | 
 
