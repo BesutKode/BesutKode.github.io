@@ -22,7 +22,7 @@
 | Wave 3
 | [hanstananda](https://hanstananda.github.io) | hanstananda  |Sudah 1-18,67|
 | [nathaniasaphira](https://nathaniasaphira.github.io) | nathaniasaphira | soal no. 1,2,3,19 |
-| [magicpotatoes2](https://magicpotatoes2.github.io) | magicpotatoes2 | Sudah No. 1 - 6|
+| [magicpotatoes2](https://magicpotatoes2.github.io) | magicpotatoes2 | Sudah No. 1 - 10, 13, 14, 16, 22, 34, 42|
 | [maherspp](https://maherspp.github.io) | maherspp |  |
 | [leoferaderonugraha](https://leoferaderonugraha.github.io) | leoferaderonugraha  | Sudah 1,4|
 | [miner46er](https://miner46er.github.io) | miner46er | Sudah 1,2 |
