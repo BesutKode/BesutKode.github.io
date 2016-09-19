@@ -35,3 +35,4 @@
 | [riyan010699] (https://riyan010699.github.io/) | riyan010699 | Sudah nomor 1, 2, 6, 29, 53|
 | [lauluholi12] (https://lauluholi12.github.io/) | lauluholi12 | sudah no 1-6 , 42 |
 | [dovansan] (https://dovansan.github.io/) | dovansan | sudah no 1-3 |
+| [snityasa](https://snityasa.github.io) | snityasa | Selesai nomor 1|
