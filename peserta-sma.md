@@ -29,15 +29,15 @@ layout: main
 | [maherspp](https://maherspp.github.io) | ![maherspp](http://projecteuler.net/profile/maherspp.png) |  |
 | [leoferaderonugraha](https://leoferaderonugraha.github.io) | ![leoferaderonugraha](http://projecteuler.net/profile/leoferaderonugraha.png)  | Sudah 1,4|
 | [miner46er](https://miner46er.github.io) | ![miner46er](http://projecteuler.net/profile/miner46er.png) | Sudah 1,2 |
-| [reallyly] (https://reallyly.github.io) | ![Yllae](http://projecteuler.net/profile/Yllae.png) | Sudah, nomor 1 ~ 10, 13, 14, 16, 20, 40, 45, 48 |
+| [reallyly](https://reallyly.github.io) | ![Yllae](http://projecteuler.net/profile/Yllae.png) | Sudah, nomor 1 ~ 10, 13, 14, 16, 20, 40, 45, 48 |
 | [rwhendry](https://rwhendry.github.io) | ![rwhendry](http://projecteuler.net/profile/rwhendry.png) | Sudah nomor 1-5 |
 | [kekavigi](https://kekavigi.github.io) | ![kekavigi](http://projecteuler.net/profile/kekavigi.png) | sudah nomor 1, 2, 3, 5, 6, 7, 9, 20, 48, 63 |
 | [Wekananda](https://wekananda.github.io/) | ![Wekananda](http://projecteuler.net/profile/Wekananda.png) | Sudah nomor 1 |
 | [Sensytive](https://Sensytive.github.io/) | ![Sensytive](http://projecteuler.net/profile/Sensytive.png) | Sudah nomor 1 dan 7 |
-| [ggmich] (https://ggmich.github.io/) | ![ggmich](http://projecteuler.net/profile/ggmich.png) | Sudah nomor 1, 2 |
+| [ggmich](https://ggmich.github.io/) | ![ggmich](http://projecteuler.net/profile/ggmich.png) | Sudah nomor 1, 2 |
 | [riyan010699] (https://riyan010699.github.io/) | ![riyan010699](http://projecteuler.net/profile/riyan010699.png) | Sudah nomor 1, 2, 6, 29, 53|
-| [lauluholi12] (https://lauluholi12.github.io/) | ![lauluholi12](http://projecteuler.net/profile/lauluholi12.png) | sudah no 1-6 , 42 |
+| [lauluholi12](https://lauluholi12.github.io/) | ![lauluholi12](http://projecteuler.net/profile/lauluholi12.png) | sudah no 1-6 , 42 |
 | [dovansan] (https://dovansan.github.io/) | ![dovansan](http://projecteuler.net/profile/dovansan.png) | sudah no 1-3 |
 | [snityasa](https://snityasa.github.io) | ![snityasa](http://projecteuler.net/profile/snityasa.png) | Selesai nomor 1|
 | [BluMir] (https://blumir.github.io/) | ![BluMir](http://projecteuler.net/profile/BluMir.png) | selesai 1-3 | 
-| [achunchun] (https://achunchun.github.io/) | ![achunchun](http://projecteuler.net/profile/achunchun.png) | Selesai nomor 1, 2, 3 |
+| [achunchun](https://achunchun.github.io/) | ![achunchun](http://projecteuler.net/profile/achunchun.png) | Selesai nomor 1, 2, 3 |
