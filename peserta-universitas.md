@@ -1,3 +1,6 @@
+---
+layout: main
+---
 | Nama Pengguna GitHub          | Nama Pengguna Project Euler     | Telah Menyelesaikan Project Euler | Nama Pengguna Wikimedia | Pengguna Stackoverflow ID | Repositori di Github 
 | ----------------------------- | ------------------------------- | --------------------------------- | ----------------------- | ------------------------- | --------------------
 | [mnafian](https://mnafian.github.io) | ![](http://projecteuler.net/profile/mnafian.png) | 1,2,3,4,5,6,7,8,13,25 | [Muhammad Nafian Wildana](https://id.wikipedia.org/wiki/Pengguna:Muhammad_Nafian_Wildana) | ![Nafian Wildana](http://stackoverflow.com/users/flair/2376142.png) | [mnafian/ImageEffectFilter](https://github.com/mnafian/ImageEffectFilter)
