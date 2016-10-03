@@ -1,3 +1,6 @@
+---
+layout: main
+---
 | Nama Pengguna GitHub          | Nama Pengguna Project Euler     | Telah Menyelesaikan Project Euler |
 | ----------------------------- | ------------------------------- | --------------------------------- |
 | Wave 1
