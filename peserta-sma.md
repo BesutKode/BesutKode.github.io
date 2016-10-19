@@ -1,9 +1,10 @@
 ---
 layout: main
+total: 35
 ---
 | Nama Pengguna GitHub          | Nama Pengguna Project Euler     | Telah Menyelesaikan Project Euler |
 | ----------------------------- | ------------------------------- | --------------------------------- |
-| Wave 1
+| Wave 1: 12
 | [SacredWKnight](https://sacredwknight.github.io)  | ![SacredWKnight](http://projecteuler.net/profile/SacredWKnight.png) | Soal nomor 1,2,3   |
 | [Qadzif](https://Qadzif.github.io)  | ![Qadzif](http://projecteuler.net/profile/Qadzif.png)  | Sudah, 1 Sampai 20 |
 | [thegalang](https://thegalang.github.io) | ![galangk](http://projecteuler.net/profile/galangk.png) | Sudah, soal nomor 2 
@@ -16,13 +17,13 @@ layout: main
 | [panggihsamudra](https://panggihsamudra.github.io) | ![panggihsamudra](http://projecteuler.net/profile/panggihsamudra.png)  | Sudah, soal nomor 1-10        |
 | [gracesilia](https://gracesilia.github.io) | ![gracesilia](http://projecteuler.net/profile/gracesilia.png) | Sudah, soal nomor 1-3,48        |
 | [yukiisbored](https://yukiisbored.github.io) | ![yuki_is_bored](http://projecteuler.net/profile/yuki_is_bored.png) | Sudah, 1-7, 9 |
-| Wave 2
+| Wave 2: 5
 | [ryanz12](https://ryanz12.github.io) | ![Febryan](http://projecteuler.net/profile/Febryan.png)  | Selesai nomor 1-3 |
 | [fauh45](https://fauh45.github.io) | ![fauh45](http://projecteuler.net/profile/fauh45.png) | Selesai nomor 1-2 |
 | [nutella25](https://nutella25.github.io) | ![andrew.junggg](http://projecteuler.net/profile/andrew.junggg.png)  | Selesai nomor 1-3,7,13,19,92 |
 | [rasyidufa](https://rasyidufa.github.io) | ![rasyidufa](http://projecteuler.net/profile/rasyidufa.png) | Sudah, No. 1-16, 18-20, 22, 102 |
 | [raefaldhia](https://raefaldhia.github.io) | ![raefaldhia](http://projecteuler.net/profile/raefaldhia.png)  | 1-8 |
-| Wave 3
+| Wave 3: 18
 | [hanstananda](https://hanstananda.github.io) | ![hanstananda](http://projecteuler.net/profile/hanstananda.png)  |Sudah 1-18,67|
 | [nathaniasaphira](https://nathaniasaphira.github.io) | ![nathaniasaphira](http://projecteuler.net/profile/nathaniasaphira.png) | soal no. 1,2,3,19 |
 | [magicpotatoes2](https://magicpotatoes2.github.io) | ![magicpotatoes2](http://projecteuler.net/profile/magicpotatoes2.png) | Sudah No. 1 - 10, 13, 14, 16, 22, 34, 42|
