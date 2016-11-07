@@ -21,7 +21,7 @@ total: 35
 | [ryanz12](https://ryanz12.github.io) | ![Febryan](http://projecteuler.net/profile/Febryan.png)  | Selesai nomor 1-3 |
 | [fauh45](https://fauh45.github.io) | ![fauh45](http://projecteuler.net/profile/fauh45.png) | Selesai nomor 1-2 |
 | [nutella25](https://nutella25.github.io) | ![andrew.junggg](http://projecteuler.net/profile/andrew.junggg.png)  | Selesai nomor 1-3,7,13,19,92 |
-| [rasyidufa](https://rasyidufa.github.io) | ![rasyidufa](http://projecteuler.net/profile/rasyidufa.png) | Sudah, No. 1-16, 18-20, 22, 102 |
+| [RasyidUFA](https://rasyidufa.github.io) | ![rasyidufa](http://projecteuler.net/profile/rasyidufa.png) | Sudah, No. 1-16, 18-20, 22, 102 |
 | [raefaldhia](https://raefaldhia.github.io) | ![raefaldhia](http://projecteuler.net/profile/raefaldhia.png)  | 1-8 |
 | Wave 3: 18
 | [hanstananda](https://hanstananda.github.io) | ![hanstananda](http://projecteuler.net/profile/hanstananda.png)  |Sudah 1-18,67|
