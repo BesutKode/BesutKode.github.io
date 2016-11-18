@@ -14,15 +14,15 @@ layout: main
 | 8   | [edawine](https://github.com/edawine)                   | ✓       |         |
 | 9   | [Z-Fikar](https://github.com/z-fikar)                   | ✓       |         |
 | 10  | [kinto-d](https://github.com/kinto-d)                   |         |         |
-| 11  | [adhikasp](https://github.com/adhikasp)                 | ✓       |         |
+| 11  | [adhikasp](https://github.com/adhikasp)                 | ✓       | ✓       |
 | 12  | [chocochino](https://github.com/chocochino)             | ✓       |         |
 | 13  | [taufiqsumadi](https://github.com/taufiqsumadi)         |         |         |
-| 14  | [berviantoleo](https://github.com/berviantoleo)         | ✓       |         |
+| 14  | [berviantoleo](https://github.com/berviantoleo)         | ✓       | ✓       |
 | 15  | [sandykurniawan19](https://github.com/sandykurniawan19) |         |         |
-| 16  | [arrizalamin](https://github.com/arrizalamin)           | ✓       |         |
+| 16  | [arrizalamin](https://github.com/arrizalamin)           | ✓       | ✓       |
 | 17  | [sanakdam](https://github.com/sanakdam)                 |         |         |
 | 18  | [fitriani1021](https://github.com/fitriani1021)         |         |         |
-| 19  | [prasastoadi](https://github.com/prasastoadi)           |         |         |
+| 19  | [prasastoadi](https://github.com/prasastoadi)           | ✓       |         |
 | 20  | [yobels](https://github.com/yobels)                     |         |         |
 | 21  | [Arsfiqball](https://github.com/arsfiqball)             | ✓       | ✓       |
 | 22  | [thingdiputra](https://github.com/thingdiputra)         |         |         |
