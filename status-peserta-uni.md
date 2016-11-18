@@ -6,7 +6,7 @@ layout: main
 | --- | ------------------------------------------------------- | ------- | ------- | -------
 | 1   | [mnafian](https://github.com/mnafian)                   |         |         |
 | 2   | [turfaa](https://github.com/turfaa)                     | ✓       |         |
-| 3   | [Lidilidian](https://github.com/Lidilidian)             | ✓       |         |
+| 3   | [Lidilidian](https://github.com/Lidilidian)             | ✓       |  ✓      |
 | 4   | [Erkajp](https://github.com/erkajp)                     |         |         |
 | 5   | [wisn](https://github.com/wisn)                         | ✓       |         |
 | 6   | [mamat-rahmat](https://github.com/mamat-rahmat)         | ✓       | ✓       |
