@@ -22,7 +22,7 @@ layout: main
 | 16  | [arrizalamin](https://github.com/arrizalamin)           | ✓       | ✓       |
 | 17  | [sanakdam](https://github.com/sanakdam)                 |         |         |
 | 18  | [fitriani1021](https://github.com/fitriani1021)         |         |         |
-| 19  | [prasastoadi](https://github.com/prasastoadi)           | ✓       |         |
+| 19  | [prasastoadi](https://github.com/prasastoadi)           | ✓       | ✓       |
 | 20  | [yobels](https://github.com/yobels)                     |         |         |
 | 21  | [Arsfiqball](https://github.com/arsfiqball)             | ✓       | ✓       |
 | 22  | [thingdiputra](https://github.com/thingdiputra)         |         |         |
