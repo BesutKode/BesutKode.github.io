@@ -82,6 +82,11 @@ strong {
   font-size:.75rem;
 }
 
+table {
+    display: block;
+    overflow-x: auto;
+}
+
 p {
   font-size: 0.85rem;
 }
