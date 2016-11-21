@@ -5,7 +5,7 @@ title: Besut Kode SMA Results
 ---
 
 {:.table1}
-| GitHub Username                                  | Project Euler Username                                             | [Modules](http://wikimedia-id.github.io/besutkode/modul.html)  Completed | Module 4 Solutions | Besut Challenge |
+| GitHub Username                                  | Project Euler Username                                             | [Modules](http://wikimedia-id.github.io/besutkode/modul.html)  Completed | Module&#160;4 Solutions | Besut Challenge |
 | ----------------------------------------------------- | ----------------------------------------------------------------------- | --------------------------------- | ------------------- | --------------- |
 | **Wave 1**: 12
 | [SacredWKnight](https://github.com/sacredwknight)     | ![SacredWKnight](http://projecteuler.net/profile/SacredWKnight.png)     | 4 | 16 | [loklak_server/pull/844](https://github.com/loklak/loklak_server/pull/844)&#160;✔️ |
