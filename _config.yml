@@ -1,2 +1,30 @@
-encoding: utf-8
-markdown: kramdown
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+# relative_permalinks: true
+
+# Setup
+title:               Besut Kode
+tagline:             'Status'
+description:         'Status for Besut Kode, an open-source software development competition hosted by <a href="https://wikimedia-id.github.io">Wikimedia Indonesia</a>'
+# url:
+baseurl:             ''
+paginate:            5
+paginate_path: "/blog/page:num/"
+
+# About/contact
+# author:
+#  name:
+#  url:
+#  email:
+
+# Custom vars
+version:             1.0.0
+
+gems: [jekyll-paginate]
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+github:
+  repo: https://github.com/BesutKode/BesutKode.github.io

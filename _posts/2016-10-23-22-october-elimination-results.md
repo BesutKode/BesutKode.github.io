@@ -6,14 +6,17 @@ categories: elimination
 ---
 
 
-# 19-22 October activity
+## 19-22 October activity
 
-There were **64 participants** who managed to complete their pull request to the [**besutkode.github.io**](https://github.com/BesutKode/besutkode.github.io) repository. During 19-22 October, those participants were required to **contribute to the GitHub Pages repositories of other participants using Pull Requests**. This is the first task of the elimination activities, which require participants to be active GitHub contributors every 3 days.
+There were **64 participants** who managed to complete their pull request to the [**besutkode.github.io**](https://github.com/BesutKode/besutkode.github.io) repository. During 19-22 October, those participants were required to **contribute to the GitHub Pages repositories of other participants using Pull Requests**.  
+This is the first task of the elimination activities, which require participants to be active GitHub contributors every 3 days.
 
-## Results
+### Results
 **36 participants** finished the task (**passed**) and **28 participants** failed (**eliminated**).  
 
-### Passed:
+#### Passed:
+
+{:.list1}
 1. **mnafian**: Add cdn bootstrap, responsive table, and one missing participant to [**edawine.github.io**][edawine] ([**#2**](https://github.com/edawine/edawine.github.io/pull/2)).  
 1. **turfaa**: Fix line break on [**setyawanfa.github.io**][setyawanfa] ([**#1**](https://github.com/setyawanfa/setyawanfa.github.io/pull/1)) and visual improvements to [**art3ar.github.io**][art3ar] ([**#1**](https://github.com/art3ar/art3ar.github.io/pull/1)) and [**FauriHakim.github.io**][FauriHakim] ([**#1**](https://github.com/FauriHakim/FauriHakim.github.io/pull/1)).  
 1. **Lidilidian**: Minor changes to index.html on [**yeniapriyana.github.io**][yeniapriyana] ([**#1**](https://github.com/yeniapriyana/yeniapriyana.github.io/pull/1)).  
@@ -52,7 +55,9 @@ There were **64 participants** who managed to complete their pull request to the
 1. **Arsfiqball**: Improve [**yaziedda.github.io**][yaziedda].
 
 
-### Eliminated:
+#### Eliminated:
+
+{:.list2}
 1. reksasuhud97
 1. Erkajp
 1. bgleolalahi
