@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "22 October Elimination Activity Results"
-date:   2016-10-23 00:00:00 +0700
+date:   2016-10-23 14:00:00 +0700
 categories: elimination
 ---
 
