@@ -8,8 +8,11 @@ categories: elimination
 
 ## 23-25 October activity
 
-There were **35 participants** who passed the first elimination activity. During 23-25 October, those participants were required to contribute to the GitHub repositories listed on **Awesome Indonesia Repo, excluding repositories that are only lists.**.  
-This is the second task of the elimination activities.
+There were **35 participants** who passed the first elimination activity.
+During 23-25 October, those participants were required to contribute to the
+GitHub repositories listed on **Awesome Indonesia Repo, excluding repositories
+that are only lists.**.  
+This is the second task of the elimination activities.  
 
 ### Results
 **26 participants** finished the task (**passed**) and **9 participants** failed (**eliminated**).  

@@ -8,8 +8,12 @@ categories: elimination
 
 ## 19-22 October activity
 
-There were **64 participants** who managed to complete their pull request to the [**besutkode.github.io**](https://github.com/BesutKode/besutkode.github.io) repository. During 19-22 October, those participants were required to **contribute to the GitHub Pages repositories of other participants using Pull Requests**.  
-This is the first task of the elimination activities, which require participants to be active GitHub contributors every 3 days.
+There were **64 participants** who managed to complete their pull request to
+the [**besutkode.github.io**](https://github.com/BesutKode/besutkode.github.io)
+repository. During 19-22 October, those participants were required to
+**contribute to the GitHub Pages repositories of other participants using Pull Requests**.  
+This is the first task of the elimination activities, which require participants
+to be active GitHub contributors every 3 days.  
 
 ### Results
 **35 participants** finished the task (**passed**) and **29 participants** failed (**eliminated**).  
