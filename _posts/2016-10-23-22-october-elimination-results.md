@@ -12,7 +12,7 @@ There were **64 participants** who managed to complete their pull request to the
 This is the first task of the elimination activities, which require participants to be active GitHub contributors every 3 days.
 
 ### Results
-**36 participants** finished the task (**passed**) and **28 participants** failed (**eliminated**).  
+**35 participants** finished the task (**passed**) and **29 participants** failed (**eliminated**).  
 
 #### Passed:
 
@@ -48,7 +48,7 @@ This is the first task of the elimination activities, which require participants
 1. **fahmitok97**: Make profile component more reusable on [**turfaa.github.io**][turfaa] ([**#2**](https://github.com/turfaa/turfaa.github.io/pull/2)).  
 1. **asepwhite**: Add comment feature on [**chocochino.github.io**][chocochino] ([**#2**](https://github.com/chocochino/chocochino.github.io/pull/2)).  
 1. **riochr17**: Add profile picture and float bar on [**harryawk.github.io**][harryawk] ([**#2**](https://github.com/harryawk/harryawk.github.io/pull/2)), Add icon and info component to [**berviantoleo.github.io**][berviantoleo] ([**#1**](https://github.com/berviantoleo/berviantoleo.github.io/pull/1)), and interface changes to [**art3ar.github.io**][art3ar] ([**#2**](https://github.com/art3ar/art3ar.github.io/pull/2)).  
-1. **meirusfandi**: Add Project Euler badge to [**elyasedm.github.io**][elyasedm] ([**#2**](https://github.com/elyasedm/elyasedm.github.io/pull/2)).  
+1. **<s>meirusfandi</s>**<s>: Add Project Euler badge to</s> [**<s>elyasedm.github.io</s>**][elyasedm]<s> (</s>[**<s>#2</s>**](https://github.com/elyasedm/elyasedm.github.io/pull/2)<s>).</s>  
 1. **AmdHamdani**: Add profile picture and links to Project Euler and StackOverflow IDs on [**edawine.github.io**][edawine] ([**#3**](https://github.com/edawine/edawine.github.io/pull/3)).  
 1. **harryawk**: Update index.html on [**yunita15.github.io**][yunita15] ([**#1**](https://github.com/yunita15/yunita15.github.io/pull/1)).  
 1. **denipramulia**: Add Wikipedia ID and last update information on [**thingdiputra.github.io**][thingdiputra] ([**#1**](https://github.com/thingdiputra/thingdiputra.github.io/pull/1)).  
@@ -58,34 +58,35 @@ This is the first task of the elimination activities, which require participants
 #### Eliminated:
 
 {:.list2}
-1. reksasuhud97
-1. Erkajp
-1. bgleolalahi
-1. mzaini30
-1. yaziedda
-1. yeniapriyana
-1. yudhaputrama
-1. raga22
-1. gyenras
-1. adzimzf
-1. art3ar
-1. 14113003
-1. alawyc32b
-1. scotter96
-1. alunux
-1. diankurniawan
-1. AdiRahardjo
-1. zafitract
-1. assayyis
-1. elyasedm
-1. herizalwijaya
-1. kurokochin
-1. madianwibi
-1. dindhino
-1. imransetiadi
-1. annisanurulazhar
-1. AryyNewbie
-1. mechajunkers
+1. reksasuhud97  
+1. Erkajp  
+1. bgleolalahi  
+1. mzaini30  
+1. yaziedda  
+1. yeniapriyana  
+1. yudhaputrama  
+1. raga22  
+1. gyenras  
+1. adzimzf  
+1. art3ar  
+1. 14113003  
+1. alawyc32b  
+1. scotter96  
+1. alunux  
+1. diankurniawan  
+1. AdiRahardjo  
+1. zafitract  
+1. assayyis  
+1. elyasedm  
+1. herizalwijaya  
+1. kurokochin  
+1. madianwibi  
+1. dindhino  
+1. imransetiadi  
+1. annisanurulazhar  
+1. AryyNewbie  
+1. mechajunkers  
+1. meirusfandi (Undesirable pull requests to [godotengine/godot](https://github.com/godotengine/godot/))  
 
 \* The lists are in no particular order.  
 
