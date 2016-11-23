@@ -12,6 +12,7 @@ description:         'Status for Besut Kode, an open-source software development
 baseurl:             ''
 paginate:            5
 paginate_path: "/blog/page:num/"
+elimination: "/elimination/"
 
 # About/contact
 # author:
