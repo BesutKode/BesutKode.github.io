@@ -11,7 +11,7 @@ categories: elimination
 There were **35 participants** who passed the first elimination activity.
 During 23-25 October, those participants were required to contribute to the
 GitHub repositories listed on **Awesome Indonesia Repo, excluding repositories
-that are only lists.**.  
+that are only lists**.  
 This is the second task of the elimination activities.  
 
 ### Results
@@ -34,7 +34,7 @@ This is the second task of the elimination activities.
 1. **taufiqsumadi**: Add captcha verification ([**smpn1smg/absis/pull/1**](https://github.com/smpn1smg/absis/pull/1)).  
 1. **yogo-chen**: Join two if statements into one ([**sastrawi/sastrawi/pull/30**](https://github.com/sastrawi/sastrawi/pull/30)).  
 1. **berviantoleo**: Update Windows installation instructions ([**endymuhardin/buku-git/pull/3**](https://github.com/endymuhardin/buku-git/pull/3)).  
-1. **sandykurniawan19**; Add form validation ([**zhiephie/boilerplate-slim3/pull/6**](https://github.com/zhiephie/boilerplate-slim3/pull/6).
+1. **sandykurniawan19**: Add form validation ([**zhiephie/boilerplate-slim3/pull/6**](https://github.com/zhiephie/boilerplate-slim3/pull/6).
 1. **arrizalamin**: Add command to show all posts from current user ([**Kristories/phunt/pull/1**](https://github.com/Kristories/phunt/pull/1)).  
 1. **sanAkdam**: Add command to show all products from current user ([**Kristories/phunt/pull/4**](https://github.com/Kristories/phunt/pull/4)).  
 1. **fitriani1021**: Update README.md ([**autocomplete-python/autocomplete-python/pull/241**](https://github.com/autocomplete-python/autocomplete-python/pull/241) and ([**sonnylazuardi/wordchain/pull/6**](https://github.com/sonnylazuardi/wordchain/pull/6)).  
@@ -44,7 +44,7 @@ This is the second task of the elimination activities.
 1. **fahmitok97**: Fix PDF exporting ([**endymuhardin/buku-git/pull/4**](https://github.com/endymuhardin/buku-git/pull/4)).  
 1. **riochr17**: Add Share to LINE feature and add test and npm ([**bachors/jQuery-Awesome-Sosmed-Share-Button/pull/11**](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button/pull/11) and [**12**](https://github.com/xinuc/ruby_basic/pull/2)).  
 1. **AmdHamdani**: Add basic iterator and multithreading ([**edawine/edawine.github.io/pull/3**](https://github.com/edawine/edawine.github.io/pull/3)).  
-1. **denipramulia**: Change button color when clicked ([**bachors/jQuery-Awesome-Sosmed-Share-Button/pull/14**](hhttps://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button/pull/14)) and update README.md ([**sastrawi/sastrawi/pull/29**](https://github.com/sastrawi/sastrawi/pull/29)).  
+1. **denipramulia**: Change button color when clicked ([**bachors/jQuery-Awesome-Sosmed-Share-Button/pull/14**](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button/pull/14)) and update README.md ([**sastrawi/sastrawi/pull/29**](https://github.com/sastrawi/sastrawi/pull/29)).  
 1. **Arsfiqball**: Fix bugs and add README.md and changelog.md ([**PopojiCMS/PopojiCMS/pull/4**](https://github.com/PopojiCMS/PopojiCMS/pull/4)).
 
 
