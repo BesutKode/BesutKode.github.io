@@ -1,5 +1,6 @@
 ---
-layout: main
+layout: page
+title: Status Peserta Besut Kode Universitas
 ---
 
 | No. | Nama Pengguna GitHub                                    | [Tugas 1](https://github.com/BesutKode/uni-task-1) | [Tugas 2](https://github.com/BesutKode/uni-task-2) | Tugas 3
