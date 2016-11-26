@@ -60,5 +60,3 @@ This is the second task of the elimination activities.
 1. wizkim540  
 1. asepwhite  
 1. harryawk  
-
-\* The lists are in no particular order.  

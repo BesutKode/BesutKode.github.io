@@ -92,8 +92,6 @@ to be active GitHub contributors every 3 days.
 1. mechajunkers  
 1. meirusfandi (Undesirable pull requests to [godotengine/godot](https://github.com/godotengine/godot/))  
 
-\* The lists are in no particular order.  
-
 [edawine]: https://edawine.github.io
 [setyawanfa]: https://setyawanfa.github.io
 [art3ar]: https://art3ar.github.io
