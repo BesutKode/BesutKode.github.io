@@ -41,9 +41,9 @@ This is the **sixth** task of the elimination activities.
 1. **fitriani1021**: Add CC-SA 3.0 license ([**translate/l10n-guide/pull/57**](https://github.com/translate/l10n-guide/pull/57)).  
 1. **prasastoadi**: Resize virtual path field ([**translate/pootle/pull/5480**](https://github.com/translate/pootle/pull/5480)).  
 1. **yobels**: Update broken link ([**languagetool-org/languagetool/pull/594**](https://github.com/languagetool-org/languagetool/pull/594)).  
+1. **Arsfiqball**: Add TravisCI badge ([**translate/l10n-guide/pull/45**](https://github.com/translate/l10n-guide/pull/45)).  
 1. **thingdiputra**: Update links ([**translate/l10n-guide/pull/56**](https://github.com/translate/l10n-guide/pull/56)).  
 1. **AmdHamdani**: Add Indonesian grammar.xml ([**languagetool-org/languagetool/pull/593**](https://github.com/languagetool-org/languagetool/pull/593)).  
-1. **Arsfiqball**: Add TravisCI badge ([**translate/l10n-guide/pull/45**](https://github.com/translate/l10n-guide/pull/45)).
 
 #### Eliminated:
 

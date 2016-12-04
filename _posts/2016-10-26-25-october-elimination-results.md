@@ -40,12 +40,12 @@ This is the second task of the elimination activities.
 1. **fitriani1021**: Update README.md ([**autocomplete-python/autocomplete-python/pull/241**](https://github.com/autocomplete-python/autocomplete-python/pull/241) and ([**sonnylazuardi/wordchain/pull/6**](https://github.com/sonnylazuardi/wordchain/pull/6)).  
 1. **prasastoadi**: Update Sastrawi version ([**har07/PySastrawi/pull/2**](https://github.com/har07/PySastrawi/pull/2) and [**RadhiFadlillah/go-sastrawi/pull/1**](https://github.com/RadhiFadlillah/go-sastrawi/pull/1)).  
 1. **yobels**: Add form validator ([**xsanisty/SlimStarter/pull/24**](https://github.com/xsanisty/SlimStarter/pull/24) and [**25**](https://github.com/xsanisty/SlimStarter/pull/25)).  
+1. **Arsfiqball**: Fix bugs and add README.md and changelog.md ([**PopojiCMS/PopojiCMS/pull/4**](https://github.com/PopojiCMS/PopojiCMS/pull/4)).  
 1. **thingdiputra**: Add hover effect ([**bachors/jQuery-Awesome-Sosmed-Share-Button/pull/13**](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button/pull/13)).  
 1. **fahmitok97**: Fix PDF exporting ([**endymuhardin/buku-git/pull/4**](https://github.com/endymuhardin/buku-git/pull/4)).  
 1. **riochr17**: Add Share to LINE feature and add test and npm ([**bachors/jQuery-Awesome-Sosmed-Share-Button/pull/11**](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button/pull/11) and [**12**](https://github.com/xinuc/ruby_basic/pull/2)).  
 1. **AmdHamdani**: Add basic iterator and multithreading ([**edawine/edawine.github.io/pull/3**](https://github.com/edawine/edawine.github.io/pull/3)).  
 1. **denipramulia**: Change button color when clicked ([**bachors/jQuery-Awesome-Sosmed-Share-Button/pull/14**](https://github.com/bachors/jQuery-Awesome-Sosmed-Share-Button/pull/14)) and update README.md ([**sastrawi/sastrawi/pull/29**](https://github.com/sastrawi/sastrawi/pull/29)).  
-1. **Arsfiqball**: Fix bugs and add README.md and changelog.md ([**PopojiCMS/PopojiCMS/pull/4**](https://github.com/PopojiCMS/PopojiCMS/pull/4)).
 
 
 #### Eliminated:

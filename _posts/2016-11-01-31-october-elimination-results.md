@@ -40,10 +40,10 @@ This is the **fourth** task of the elimination activities.
 1. **fitriani1021**: [**unila/unila.github.io**](https://github.com/unila/unila.github.io/issues/31)  
 1. **prasastoadi**: [**jayvdb/anyhttp**](https://github.com/jayvdb/anyhttp/issues/4)  
 1. **yobels**: [**StydeNet/html**](https://github.com/StydeNet/html/issues/52)  
+1. **Arsfiqball**: [**sathyamoorthi/ember-play**](https://github.com/sathyamoorthi/ember-play/issues/2)  
 1. **thingdiputra**: [**FelixNeutatz/2048_M-A-Star**](https://github.com/FelixNeutatz/2048_M-A-Star/issues/2)  
 1. **AmdHamdani**: [**azul3d/engine**](https://github.com/azul3d/engine/issues/164)  
 1. **denipramulia**: [**mgilangjanuar/FTPConnection**](https://github.com/mgilangjanuar/FTPConnection/issues/1)  
-1. **Arsfiqball**: [**sathyamoorthi/ember-play**](https://github.com/sathyamoorthi/ember-play/issues/2)  
 
 #### Eliminated:
 

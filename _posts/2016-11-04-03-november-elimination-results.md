@@ -40,9 +40,9 @@ One participant (**Erkajp**) continued doing all of the mini-activities and was 
 1. **fitriani1021**: Update countries and currencies list ([**samayo/country-data/pull/62**](https://github.com/samayo/country-data/pull/62)).  
 1. **prasastoadi**: Fix villages data ([**edwardsamuel/Wilayah-Administratif-Indonesia/pull/11**](https://github.com/edwardsamuel/Wilayah-Administratif-Indonesia/pull/11)).  
 1. **yobels**: Update files to use markdown format ([**openlink/virtuoso-opensource/pull/600**](https://github.com/openlink/virtuoso-opensource/pull/600) and [**601**](https://github.com/openlink/virtuoso-opensource/pull/601)).  
+1. **Arsfiqball**: Update Indonesia's country data ([**samayo/country-data/pull/55**](https://github.com/samayo/country-data/pull/55)).  
 1. **thingdiputra**: Fix typos ([**Chicago/food-inspections-evaluation/pull/96**](https://github.com/Chicago/food-inspections-evaluation/pull/96)).  
 1. **AmdHamdani**: Improve spelling ([**18F/open-data-maker/pull/319**](https://github.com/18F/open-data-maker/pull/319)).  
-1. **Arsfiqball**: Update Indonesia's country data ([**samayo/country-data/pull/55**](https://github.com/samayo/country-data/pull/55)).
 
 
 #### Uneliminated:

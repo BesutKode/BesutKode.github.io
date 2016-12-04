@@ -48,6 +48,7 @@ to be active GitHub contributors every 3 days.
 1. **wizkim540**: Minor changes to index.html on [**chocochino.github.io**][chocochino] ([**#3**](https://github.com/chocochino/chocochino.github.io/pull/3)).  
 1. **prasastoadi**: Add link to Project Euler profile on [**erkajp.github.io**][erkajp] ([**#4**](https://github.com/Erkajp/erkajp.github.io/pull/4)).  
 1. **yobels**: Change footer on [**sandykurniawan19.github.io**][sandykurniawan19] ([**#1**](https://github.com/sandykurniawan19/sandykurniawan19.github.io/pull/1)).  
+1. **Arsfiqball**: Improve [**yaziedda.github.io**][yaziedda].  
 1. **thingdiputra**: Update index.html on [**annisanurulazhar.github.io**][annisanurulazhar] ([**#1**](https://github.com/annisanurulazhar/annisanurulazhar.github.io/pull/1)).  
 1. **fahmitok97**: Make profile component more reusable on [**turfaa.github.io**][turfaa] ([**#2**](https://github.com/turfaa/turfaa.github.io/pull/2)).  
 1. **asepwhite**: Add comment feature on [**chocochino.github.io**][chocochino] ([**#2**](https://github.com/chocochino/chocochino.github.io/pull/2)).  
@@ -56,7 +57,6 @@ to be active GitHub contributors every 3 days.
 1. **AmdHamdani**: Add profile picture and links to Project Euler and StackOverflow IDs on [**edawine.github.io**][edawine] ([**#3**](https://github.com/edawine/edawine.github.io/pull/3)).  
 1. **harryawk**: Update index.html on [**yunita15.github.io**][yunita15] ([**#1**](https://github.com/yunita15/yunita15.github.io/pull/1)).  
 1. **denipramulia**: Add Wikipedia ID and last update information on [**thingdiputra.github.io**][thingdiputra] ([**#1**](https://github.com/thingdiputra/thingdiputra.github.io/pull/1)).  
-1. **Arsfiqball**: Improve [**yaziedda.github.io**][yaziedda].
 
 
 #### Eliminated:
