@@ -32,16 +32,15 @@ Clicking on the "v: latest" at the bottom of [phpMyAdmin](http://docs.phpmyadmin
 shows phpMyAdmin has their documentation translated into the following languages:
 
 - en : English
-- zh_CN: Simplified Chinese (China)
 - cs: Czech 
-- fr: French
 - de: German
-- el: Greek
+- es: Spanish
+- fr: French
 - hu: Hungarian 
 - ja: Japanese
 - pt_BR: Portuguese (Brazilian)
-- es: Spanish
 - tr: Turkish
+- zh_CN: Simplified Chinese (China)
 
 The English documentation of phpMyAdmin is in the GitHub repository
 [`phpmyadmin/phpmyadmin`](https://github.com/phpmyadmin/phpmyadmin)
