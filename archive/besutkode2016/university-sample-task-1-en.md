@@ -74,12 +74,16 @@ There are also GitHub services for translation of `.po` files, providing a web a
 adding and updating translations.
 
 The phpMyAdmin `localized_docs` project is connected to the [Weblate](https://en.wikipedia.org/wiki/Weblate)
-service, where the [bahasa Indonesian translation page](https://hosted.weblate.org/projects/phpmyadmin/documentation/id/)
-shows the documentation is 0.6% translated.
+service, where the [bahasa Indonesian translation page](https://hosted.weblate.org/projects/phpmyadmin/master/id/)
+shows the documentation is 68.2% translated.
 
 If you log into Weblate using your GitHub account, when you contribute translations in Weblate your changes will
 be [lazy-committed](https://docs.weblate.org/en/latest/admin/continuous.html#lazy-commit) to the GitHub repository,
 such as when someone else does a translation, and appear on your GitHub profile.
+
+In order for translations to appear in your GitHub profile,
+[you must](https://help.github.com/articles/why-are-my-contributions-not-showing-up-on-my-profile/#commits)
+star the repository.
 
 The phpMyAdmin project prefers translations are provided using Weblate, as it reduces the
 workload for the committers since Weblate automatically commits changes.
@@ -88,6 +92,18 @@ a Pull Request to complete this task.  An example reason for using a Pull Reques
 programmatically translating a very large group of messages using one of the `gettext` libraries.
 Even with a good reason, it is not recommended to do this when there are a lot of contributors
 to the same file, such as a group task like Besut Kode, as merge conflicts may occur.
+
+To use weblate, ensure you have an email address in your GitHub profile.
+
+1. Log into https://hosted.weblate.org/ using GitHub.
+2. https://hosted.weblate.org/projects/phpmyadmin/master/id/
+3. Start translating.
+4. Star [`phpmyadmin/localized_docs`](https://github.com/phpmyadmin/localized_docs)
+
+Erroneous translations will be published into the GitHub repository, unless someone catches the
+error before the lazy-commit occurs.
+
+Low quality translations or errors that are published will result in elimination.
 
 Related StackOverflow tags:
 
