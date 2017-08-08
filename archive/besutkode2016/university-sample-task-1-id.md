@@ -36,11 +36,15 @@ menunjukkan dokumentasi phpMyAdmin telah diterjemahkan ke bahasa-bahasa berikut:
 - de: Jerman
 - el: Yunani
 - es: Spanyol
+- et: Esti
 - fr: Perancis
-- hu: Hongaria 
+- hu: Hongaria
+- id: bahasa Indonesia
 - ja: Jepang
+- nl: Belanda
 - pt_BR: Portugis (Brasil)
 - tr: Turki
+- uk: Ukraina
 - zh_CN: Cina (disederhanakan)
 
 Dokumentasi phpMyAdmin dalam bahasa Inggris ada di repositori GitHub
