@@ -74,8 +74,8 @@ Terdapat juga layanan-layanan GitHub untuk penerjemahan berkas `.po`, yang menye
 untuk menambah dan memperbarui terjemahan.
 
 Proyek `localized_docs` phpMyAdmin terhubung dengan layanan [Weblate](https://en.wikipedia.org/wiki/Weblate),
-di mana [halaman terjemahan bahasa Indonesia](https://hosted.weblate.org/projects/phpmyadmin/documentation/id/)
-menunjukkan bahwa dokumentasinya telah 0.6% diterjemahkan.
+di mana [halaman terjemahan bahasa Indonesia](https://hosted.weblate.org/projects/phpmyadmin/master/id/)
+menunjukkan bahwa dokumentasinya telah 68.2% diterjemahkan.
 
 Jika Anda *log in* ke Weblate menggunakan akun GitHub Anda, ketika Anda menyumbangkan terjemahan di Weblate maka
 perubahan Anda akan di-[lazy-commit](https://docs.weblate.org/en/latest/admin/continuous.html#lazy-commit)-kan
