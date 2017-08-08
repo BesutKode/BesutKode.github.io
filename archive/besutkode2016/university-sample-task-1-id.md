@@ -32,16 +32,16 @@ Mengklik pada "v: latest" di bagian bawah [phpMyAdmin](http://docs.phpmyadmin.ne
 menunjukkan dokumentasi phpMyAdmin telah diterjemahkan ke bahasa-bahasa berikut:
 
 - en : Inggris
-- zh_CN: Cina (disederhanakan)
 - cs: Ceko
-- fr: Perancis
 - de: Jerman
 - el: Yunani
+- es: Spanyol
+- fr: Perancis
 - hu: Hongaria 
 - ja: Jepang
 - pt_BR: Portugis (Brasil)
-- es: Spanyol
 - tr: Turki
+- zh_CN: Cina (disederhanakan)
 
 Dokumentasi phpMyAdmin dalam bahasa Inggris ada di repositori GitHub
 [`phpmyadmin/phpmyadmin`](https://github.com/phpmyadmin/phpmyadmin)
