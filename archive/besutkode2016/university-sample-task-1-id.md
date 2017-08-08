@@ -97,7 +97,7 @@ Untuk menggunakan weblate, pastikan kamu memiliki alamat email di profile github
 1. Masuk ke https://hosted.weblate.org/ menggunakan GitHub.
 2. https://hosted.weblate.org/projects/phpmyadmin/master/id/
 3. Mulai terjemahkan
-4. Berikan _Star_ pada `phpmyadmin/localized_docs`](https://github.com/phpmyadmin/localized_docs)
+4. Berikan _Star_ pada [phpmyadmin/localized_docs](https://github.com/phpmyadmin/localized_docs)
 
 Setiap kesalahan terjemahan akan di publikasikan ke repositori github, kecuali seseorang memperbaikinya sebelum terjadinya _lazy_commit_.
 
