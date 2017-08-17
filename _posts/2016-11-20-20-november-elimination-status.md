@@ -5,6 +5,64 @@ date:   2016-11-20 18:00:00 +0700
 categories: elimination
 ---
 
+## 12-20 November activity
+
+There were **23 participants** who passed the seventh elimination activity.
+During 07-09 November, those participants were required to **remain active**
+with small but useful contributions in repositories of
+Google Summer of Code organisations.  Also during this eight round, the
+expectation was that participants either have one pull request merged
+or have positive feedback from the repository maintainer.
+
+This was the **eight and final** elimination round.  
+
+### Results
+
+**14 participants** finished this elimination round,
+and **9 participants** were eliminated.  
+
+#### Passed:
+
+{:.list1}
+1. **Lidilidian**
+2. **wisn**
+3. **mamat-rahmat**
+4. **bekicot**
+5. **edawine**
+6. **Z-Fikar**
+7. **adhikasp**
+8. **chocochino**
+9. **berviantoleo**
+10. **arrizalamin**
+11. **sanakdam**
+12. **prasastoadi**
+13. **Arsfiqball**
+14. **thingdiputra**
+
+#### Eliminated:
+
+Many participants stopped entirely, often citing university assignments:
+
+{:.list1}
+1. turfaa
+2. mnafian
+3. Erkajp
+4. kinto-d
+5. taufiqsumadi
+6. fitriani1021
+7. yobels
+8. AmdHamdani
+
+**sandykurniawan19** did one small pull request in period, and was
+eliminated as a consequence of both low activity on these small tasks,
+and insufficient work on the large tasks which ran in parallel.
+
+**sanakdam** and **thingdiputra** were also eliminated at the end of this
+round, but only due to insufficient work on the large tasks.
+
+**taufiqsumadi** was subsequently invited to continue into the Mentoring
+phase, as his reason for not participating in eight round was accepted.
+
 {:.table1}
 | Username             | Organisation  | Repository                 | Contribution                                                                                                                | Time submitted                        |
 |----------------------|---------------|----------------------------|-----------------------------------------------------------------------------------------------------------------------------|---------------------------------------|
@@ -15,6 +73,10 @@ categories: elimination
 |                      | GitHub        | linguist                   | [pull/3335](https://github.com/github/linguist/pull/3335)                                                                   | 19 Nov 14:58                          |
 |                      | FOSSASIA      | open-event-orga-server     | [issues/2574](https://github.com/fossasia/open-event-orga-server/issues/2574)                                               | 19 Nov 14:58                          |
 |                      | FOSSASIA      | open-event-orga-server     | [pull/2575](https://github.com/fossasia/open-event-orga-server/pull/2575) merged                                                | 19 Nov 18:18                          |
+|                      |               |                            |                                                                                                                             |                                       |
+| **turfaa**           | -             | -                          | none                                                                                                                        | -                                     |
+|                      |               |                            |                                                                                                                             |                                       |
+| **mnafian**          | -             | -                          | none                                                                                                                        | -                                     |
 |                      |               |                            |                                                                                                                             |                                       |
 | **Erkajp**           | -             | -                          | none                                                                                                                        | -                                     |
 |                      |               |                            |                                                                                                                             |                                       |
