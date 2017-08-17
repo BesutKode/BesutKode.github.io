@@ -23,4 +23,6 @@ Selama kompetisi metoring berlangsung Wikimedia Indonesia mengadakan seminar dan
 
 ![statistik peserta besut kode universitas](http://besutkode.org/assets/img/piechartBKU.jpg "piechart BKU"){: .img-responsive .center-block } 
 
+![peserta lokakarya BKU](http://besutkode.org/assets/img/lokakaryaBKU.jpg "peserta lokakarya BKU"){: .img-responsive .center-block } 
+
 ![pemenang BKU di FOSSASIA](http://besutkode.org/assets/img/semua.JPG "pemenang BKU di Fossasia"){: .img-responsive .center-block } 
