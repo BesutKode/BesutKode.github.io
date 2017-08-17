@@ -42,4 +42,4 @@ Apabila mereka berhasil menyelesaikan modul 1-5, maka peserta akan diundang untu
 
 ![Lokakarya II Besut Kode di SMAN 3 Bandung]( http://wikimedia-id.github.io/besutkode/img/blog/Lokakarya%20II%20Bandung%20Tasya.jpg "Tasya mengajarkan peserta menyelesaikan soal-soal Project Euler Besut Kode SMA"){: .img-responsive .center-block } 
 
-Ingin mengetahui **[hasilnya?](http://wikimedia-id.github.io/sma-id/2017/01/03/HasilBesutKodeSMA.html)**
+Ingin mengetahui **[hasilnya?](http://besutkode.org/HasilBesutKodeSMA/)**
