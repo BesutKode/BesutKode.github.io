@@ -4,7 +4,7 @@ var onFormLoadInteractions = {
     var formElement = document.getElementById("form_bit24");
     var bdy = document.body;
     window.scrollTo(0,0);
-    if(nodeId.style.display === "none"){
+    if(formElement.style.display === "none"){
       // Open the form, disable main body scroll
       bdy.style.overflow = "hidden";
       formElement.style.display = "block"
