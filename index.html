@@ -15,7 +15,20 @@
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
     <link href="assets/css/material-kit.css" rel="stylesheet" />
   </head>
-  <body class="landing-page">
+  <body class="landing-page" style="overflow: scroll">
+    <div id="form_bit24"style="display: none; position: absolute; width: 100%; min-height: 100%; background-color: rgba(0,0,0,0.5); overflow-y: scroll;  z-index: 1000000; top: 0; right: 0; bottom: 0; left: 0;padding: 20px">
+      <button class="btn btn-danger btn-raised btn-lg" onclick={onFormLoadInteractions.onLoadUnloadChange()} style="position: fixed;z-index: 10000000; top: 1px; right: 20px;">X</button>
+      <script id="bx24_form_inline" data-skip-moving="true">
+        (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
+            (w[b].forms=w[b].forms||[]).push(arguments[0])};
+          if(w[b]['forms']) return;
+          s=d.createElement('script');r=1*new Date();s.async=1;s.src=u+'?'+r;
+          h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
+        })(window,document,'https://besutkode.bitrix24.com/bitrix/js/crm/form_loader.js','b24form');
+
+        b24form({"id":"8","lang":"en","sec":"cpcbhm","type":"inline"});
+      </script>
+    </div>
     <nav class="navbar navbar-fixed-top navbar-color-on-scroll navbar-transparent">
       <div class="container">
         <div class="navbar-header">
@@ -46,16 +59,7 @@
               <h1 class="title">Kompetisi retas kode Indonesia</h1>
               <h4>Besut Kode adalah kompetisi online pengembangan perangkat lunak sumber terbuka dan bebas untuk pelajar SMA, SMK, dan MAN berumur 15-17 tahun yang mentargetkan pelajar untuk berpatisipasi dalam Google Code-In / Google Summer of Code.</h4>
               <br />
-              <script id="bx24_form_button" data-skip-moving="true">
-                (function(w,d,u,b){w['Bitrix24FormObject']=b;w[b] = w[b] || function(){arguments[0].ref=u;
-                  (w[b].forms=w[b].forms||[]).push(arguments[0])};
-                  if(w[b]['forms']) return;
-                  s=d.createElement('script');r=1*new Date();s.async=1;s.src=u+'?'+r;
-                  h=d.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);
-                })(window,document,'https://besutkode.bitrix24.com/bitrix/js/crm/form_loader.js','b24form');
-
-                b24form({"id":"8","lang":"en","sec":"cpcbhm","type":"button","click":""});
-              </script><button class="btn btn-danger btn-raised btn-lg b24-web-form-popup-btn-8">Daftar Sekarang!</button>
+              <button class="btn btn-danger btn-raised btn-lg" onclick={onFormLoadInteractions.onLoadUnloadChange()}>Daftar Sekarang!</button>
 	      <h6>Program ini <b>gratis</b> dan <b>tidak memungut biaya</b></h6>
             </div>
           </div>
@@ -262,6 +266,7 @@
   <script src="assets/js/material.min.js"></script>
   <script src="assets/js/material-kit.js"></script>
   <script src="assets/js/nouislider.min.js"></script>
+  <script src="assets/js/b24-form-interactions.js"></script>
   <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
