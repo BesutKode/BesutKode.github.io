@@ -15,3 +15,8 @@ var onFormLoadInteractions = {
     }
   }
 };
+$( document ).ready(function() {
+  if(location.hash === "#daftar"){
+    onFormLoadInteractions.onLoadUnloadChange()
+  }
+});
