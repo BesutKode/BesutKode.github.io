@@ -13,6 +13,9 @@ var onFormLoadInteractions = {
       formElement.style.display = "none";
       bdy.style.overflow = "scroll";
     }
+    var b24Form = document.getElementById('bx_form_iframe_8');
+    b24Form.scrolling = 'yes';
+    b24Form.style.height = '400vh';
   }
 };
 $( document ).ready(function() {
