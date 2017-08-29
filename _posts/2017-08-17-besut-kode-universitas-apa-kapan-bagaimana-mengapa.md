@@ -1,7 +1,7 @@
 ---
 layout: blogposts_univ
 title: Besut Kode Universitas Apa, Kapan, Bagaimana, Mengapa?
-author: Siska Doviana
+author: siska
 categories:
 - Universitas-id
 tag:

@@ -1,7 +1,7 @@
 ---
 layout: blogposts_univ
 title: Hasil Besut Kode Universitas
-author: Siska Doviana
+author: siska
 categories:
 - Universitas-id
 tag:
