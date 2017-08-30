@@ -1,6 +1,6 @@
 ---
 layout: blogposts_univ
-title: Besut Kode Universitas Apa, Kapan, Bagaimana, Mengapa?
+title: Flowchart Besut Kode Universitas
 author: siska
 categories:
 - Universitas-id
@@ -10,6 +10,6 @@ tag:
 - Open source Indonesia
 ---
 
-## Sosialisasi Besut Kode Universitas di Malang 
+## Flowchart Besut Kode Universitas
 
 ![flowchart BKU](http://besutkode.org/archive/besutkode2016/img/flowchart_clean.png "flowchart BKU"){: .img-responsive .center-block }

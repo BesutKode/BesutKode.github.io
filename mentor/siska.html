@@ -1,0 +1,119 @@
+---
+title: Siska Doviana
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
+    <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-icon.png">
+    <link rel="icon" type="image/png" href="/assets/img/favicon.png">
+    <title>{{ page.title }}</title>
+    <!-- Fonts and icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
+    <!-- CSS Files -->
+    <link href="/assets/css/bootstrap-theme.min.css" rel="stylesheet" />
+    <link href="/assets/css/bootstrap.min.css" rel="stylesheet" />
+    <link href="/assets/css/material-kit.css" rel="stylesheet" />
+  </head>
+  <body class="landing-page" style="overflow: scroll">
+    <nav class="navbar navbar-fixed-top navbar-color-on-scroll navbar-transparent">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navigation-example">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#head">Besut Kode 2017</a>
+        </div>
+        <div class="collapse navbar-collapse" id="navigation-example">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#tentang">Tentang</a></li>
+            <li><a href="#tugas">Tugas</a></li>
+            <li><a href="#hadiah">Hadiah</a></li>
+            <li><a href="#kontak">Kontak</a></li>
+            <li><a href="/blog">Blog</a></li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+    <div class="wrapper">
+      <div class="main">
+        <div class="container">
+          <div class="section">
+            <div class="row">
+              <h1 class="title text-center">{{ page.title }}</h1>
+            </div>
+            <div class="team">
+              <div class="row">
+                <div class="col-md-4">
+                  <div class="team-player text-center">
+                    <img src="/assets/img/Siska.JPG" alt="Thumbnail Image" class="img-raised img-circle">
+                  </div>
+                </div>
+                <div class="col-md-8">
+                  <div class="team-player">
+                    <p class="description">Siska Doviana adalah lorem ipsum dolor sit amet</p>
+                    <a href="https://github.com/SiskaDo" class="btn btn-simple btn-just-icon"><i class="fa fa-github"></i></a>
+                    <a href="https://www.facebook.com/siska.doviana" class="btn btn-simple btn-just-icon"><i class="fa fa-facebook-square"></i></a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <hr>
+          <div class="section">
+            <div class="row">
+              <h2>Blog:</h2>
+              <ul>
+              {% for post in site.posts %}
+              {% if post.author == 'siska' %}
+                <li><a href="{{ post.url }}" class="btn-link"><h4>{{ post.title }}</h4></a></li>
+              {% endif %}
+              {% endfor %}
+              </ul>
+            </div>
+          </div>
+          <hr>
+          <div class="section text-center" id="kontak">
+            <div class="row">
+              <h1 class="title">Hubungi Kami</h1>
+              <h5 class="description">Untuk pertanyaan seputar Besut Kode 2017, Anda dapat menghubungi komunitas kami melalui berbagai pranala di bawah ini:</h5>
+              <div class="row">
+                <div class="col-md-3 col-md-offset-3">
+                  <a href="https://github.com/BesutKode"><i class="fa fa-github fa-5x"></i></a>
+                </div>
+                <div class="col-md-3">
+                  <a href="https://www.facebook.com/groups/gci.indo/"><i class="fa fa-facebook-square fa-5x"></i></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+  <!--   Core JS Files   -->
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <script src="/assets/js/bootstrap.min.js"></script>
+  <script src="/assets/js/bootstrap-datepicker.js"></script>
+  <script src="/assets/js/material.min.js"></script>
+  <script src="/assets/js/material-kit.js"></script>
+  <script src="/assets/js/nouislider.min.js"></script>
+  <script src="/assets/js/b24-form-interactions.js"></script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-104499174-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>
+</html>

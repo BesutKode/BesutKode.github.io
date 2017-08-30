@@ -1,6 +1,6 @@
 ---
 layout: blogposts_univ
-title: Besut Kode Universitas: Apa, Mengapa, Bagaimana, dan Kapan?
+title: Besut Kode Universitas - Apa, Mengapa, Bagaimana, dan Kapan?
 author: siska
 categories:
 - Universitas-id

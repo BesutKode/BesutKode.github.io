@@ -19,9 +19,13 @@ title: Blog
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    
+    {% if forloop.first == true %}
     {{ post.content }}
+    {% endif %}
+
   </div>
+  <hr>
   {% endfor %}
 </div>
 
