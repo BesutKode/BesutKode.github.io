@@ -1,7 +1,7 @@
 ---
 layout: blogposts
 title: Tanya Jawab Lokakarya Besut Kode SMA pemula di Bandung
-author: nurleni
+author: siska
 categories:
 - SMA-id
 tag:
