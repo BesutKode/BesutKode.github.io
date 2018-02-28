@@ -23,10 +23,6 @@ elimination: "/elimination/"
 # Custom vars
 version:             1.0.0
 
-gems: [jekyll-paginate]
-paginate: 5
-paginate_path: "/blog/page:num/"
-
 github:
   repo: https://github.com/BesutKode/BesutKode.github.io
 
