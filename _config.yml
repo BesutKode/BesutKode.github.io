@@ -29,3 +29,7 @@ paginate_path: "/blog/page:num/"
 
 github:
   repo: https://github.com/BesutKode/BesutKode.github.io
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
